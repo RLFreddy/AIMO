@@ -5,7 +5,7 @@
    git clone https://github.com/RLFreddy/AIMO.git
    ```
 2.- Version de node usada v18.18.0, recomiendo usar nvm y ejecutar el comando:
- ```bash
+   ```bash
    nvm use
    ```
 3.- Instala pnpm de manera global:
