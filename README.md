@@ -2,7 +2,7 @@
 
 1.- Clona el repositorio:
    ```bash
-   git clone https://github.com/RLFreddy/AIMO.git
+   git clone https://github.com/RLFreddy/TEST.git
    ```
 2.- Version de node usada v18.18.0, recomiendo usar nvm y ejecutar el comando:
    ```bash
